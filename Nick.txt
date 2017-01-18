@@ -1,5 +1,0 @@
-name = Nick
-
-size = 110
-
-email = nick@dir.bg
